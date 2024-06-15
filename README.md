@@ -1,5 +1,5 @@
 # DARIC_Map
-Artifact Evaluation Reproduction for "DARIC: A Data Reuse-Friendly CGRA for Parallel Data Access via Elastic FIFOs" 
+Mapper for DARIC
 
 ## Table of contents
 1. [Directory Structure](#directory-structure)
